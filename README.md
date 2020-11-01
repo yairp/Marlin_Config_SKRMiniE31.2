@@ -1,4 +1,4 @@
-# Marlin_Config_SKRMiniE3_1.2
+# Marlin Config for SKR Mini E3 V1.2
 Marlin Configuration files for SKR Mini E3 V1.2.
 Printer is Ender 3, stock stepper motors, fans and air duct.
 Fully working with Marlin 2.0.6.1
